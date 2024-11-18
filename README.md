@@ -1,6 +1,6 @@
 Mondrian Composition Using HTML & CSS Grid 🎨
 
-Huge thanks to [Dr. Angela]([url](https://github.com/angelabauer)) Yu, thank you for her inspiring lessons on Udemy that made this project possible!
+Huge thanks to @angelabauer, Dr. Angela Yu, thank you for her inspiring lessons on Udemy that made this project possible!
 
 Live Demo – Click the link to see the project in action!
 
