@@ -30,7 +30,7 @@ Inspired by Piet Mondrian’s famous compositions, this project showcases the ve
 ### How to Run:
 
 Clone the repository:
-1. git clone:  
+1. git clone https://github.com/alisameed32/Mondrian-Painting-Project.git  
 2. Open index.html in your browser to view the project.
 
 ## Contributing
