@@ -2,8 +2,7 @@ Mondrian Composition Using HTML & CSS Grid 🎨
 
 Huge thanks to @angelabauer, Dr. Angela Yu, thank you for her inspiring lessons on Udemy that made this project possible!
 
-Live Demo – Click the link to see the project in action!
-
+Live Demo: https://alisameed32.github.io/Mondrian-Painting-Project/
 Description:
 
 A CSS Grid-based recreation of Piet Mondrian's iconic abstract art style. This project demonstrates the power of CSS Grid for creating bold, geometric designs with vibrant colors and clean, sharp lines.
